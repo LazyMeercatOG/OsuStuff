@@ -1,0 +1,43 @@
+//Combo1: 204,255,253
+//Combo2: 179,255,252
+
+//Combo1: 255,255,255
+
+//Combo1: 102, 204, 255		| Main Color
+//Combo2: 117,172,255		| Main Color
+//Combo3: 46,117,223		| Main Color
+
+
+//Combo1: 204,255,253
+//Combo2: 179,255,252
+
+//Combo1: 255,255,255
+
+//Combo1: 0,206,209
+//Combo2: 32,178,170
+//Combo3: 64,224,208
+//Combo4: 0,255,255
+//Combo5: 0,191,255
+
+##############################################################################################################################################################################################################################################################
+
+//SliderBorder : 255,255,255          | Main Color
+//SliderTrackOverride : 82,129,217    | Main Color
+
+//SliderBorder: 122, 129, 153
+//SliderTrackOverride: 13, 19, 33
+
+//SliderBorder: 200, 200, 200
+//SliderTrackOverride: 50,50,50
+
+//SliderBorder: 120,186,240
+//SliderTrackOverride: 20,35,55
+
+//SliderBorder: 186, 216, 242
+//SliderTrackOverride: 0, 25, 50
+
+//SliderBorder: 168, 198, 238
+//SliderTrackOverride: 8,14,23
+
+//SliderBorder: 186, 216, 242
+//SliderTrackOverride: 8,14,23
